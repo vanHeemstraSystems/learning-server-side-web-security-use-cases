@@ -1,21 +1,21 @@
 ---
-title: "Learning Web Security - Use-Cases"
+title: "Learning Server-Side Web Security - Use-Cases"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-# Master Web Security
+# Master Server-Side Web Security
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master Server-Side Web Security)
-  A[Learner] --> C(UC: Master Client-Side Web Security)
-  A[Learner] --> D(UC: Master YYY Web Security)
-  A[Learner] --> E(UC: Master ZZZ Web Security)
-  B --> F{Abstract UC: Master Web Security}
-  C --> F{Abstract UC: Master Web Security}
-  D --> F{Abstract UC: Master Web Security}
-  E --> F{Abstract UC: Master Web Security}
+  A[Learner] --> B(UC: Master SQL Injection)
+  A[Learner] --> C(UC: Master Authentication)
+  A[Learner] --> D(UC: Master YYY)
+  A[Learner] --> E(UC: Master ZZZ)
+  B --> F{Abstract UC: Master Server-Side Web Security}
+  C --> F{Abstract UC: Master Server-Side Web Security}
+  D --> F{Abstract UC: Master Server-Side Web Security}
+  E --> F{Abstract UC: Master Server-Side Web Security}
 ```
