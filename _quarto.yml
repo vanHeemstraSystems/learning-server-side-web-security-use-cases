@@ -9,8 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - server-side-web-security.qmd
-      - client-side-web-security.qmd
+      - sql-injection.qmd
+      - authentication.qmd
 
 format:
   html:
