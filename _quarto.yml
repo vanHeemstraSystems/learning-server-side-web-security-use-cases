@@ -11,6 +11,14 @@ website:
       - about.qmd
       - sql-injection.qmd
       - authentication.qmd
+      - directory-traversal.qmd
+      - command-injection.qmd
+      - business-logic-vulnerabilities.qmd
+      - information-disclosure.qmd
+      - access-control.qmd
+      - file-upload-vulnerabilities.qmd
+      - server-side-request-forgery.qmd
+      - xxe-injection.qmd
 
 format:
   html:
