@@ -12,10 +12,22 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 flowchart LR
   A[Learner] --> B(UC: Master SQL Injection)
   A[Learner] --> C(UC: Master Authentication)
-  A[Learner] --> D(UC: Master YYY)
-  A[Learner] --> E(UC: Master ZZZ)
+  A[Learner] --> D(UC: Master Directory Traversal)
+  A[Learner] --> E(UC: Master Command Injection)
+  A[Learner] --> F(UC: Master Business Logic Vulnerabilities)
+  A[Learner] --> G(UC: Master Information Disclosure)
+  A[Learner] --> H(UC: Master Access Control)
+  A[Learner] --> I(UC: Master File Upload Vulnerabilities)
+  A[Learner] --> J(UC: Master Server-Side Request Forgery)
+  A[Learner] --> K(UC: Master XXE Injection)
   B --> F{Abstract UC: Master Server-Side Web Security}
   C --> F{Abstract UC: Master Server-Side Web Security}
   D --> F{Abstract UC: Master Server-Side Web Security}
   E --> F{Abstract UC: Master Server-Side Web Security}
+  F --> F{Abstract UC: Master Server-Side Web Security}
+  G --> F{Abstract UC: Master Server-Side Web Security}
+  H --> F{Abstract UC: Master Server-Side Web Security}
+  I --> F{Abstract UC: Master Server-Side Web Security}
+  J --> F{Abstract UC: Master Server-Side Web Security}
+  K --> F{Abstract UC: Master Server-Side Web Security}  
 ```
