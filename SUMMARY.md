@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Web Security - Use Cases](README.md)
+* [Learning Server-Side Web Security - Use Cases](README.md)
