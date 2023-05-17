@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "directory-traversal.html",
+    "href": "directory-traversal.html",
+    "title": "Directory Traversal",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "sql-injection.html",
     "href": "sql-injection.html",
     "title": "SQL Injection",
@@ -26,6 +33,13 @@
     "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nLearning Server-Side Web Security - Use Cases"
+  },
+  {
+    "objectID": "command-injection.html",
+    "href": "command-injection.html",
+    "title": "Command Injection",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
