@@ -1,5 +1,0 @@
----
-title: "Server-Side Web Security"
----
-
-About this site
