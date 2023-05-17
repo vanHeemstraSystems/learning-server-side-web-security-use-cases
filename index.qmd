@@ -20,14 +20,14 @@ flowchart LR
   A[Learner] --> I(UC: Master File Upload Vulnerabilities)
   A[Learner] --> J(UC: Master Server-Side Request Forgery)
   A[Learner] --> K(UC: Master XXE Injection)
-  B --> F{Abstract UC: Master Server-Side Web Security}
-  C --> F{Abstract UC: Master Server-Side Web Security}
-  D --> F{Abstract UC: Master Server-Side Web Security}
-  E --> F{Abstract UC: Master Server-Side Web Security}
-  F --> F{Abstract UC: Master Server-Side Web Security}
-  G --> F{Abstract UC: Master Server-Side Web Security}
-  H --> F{Abstract UC: Master Server-Side Web Security}
-  I --> F{Abstract UC: Master Server-Side Web Security}
-  J --> F{Abstract UC: Master Server-Side Web Security}
-  K --> F{Abstract UC: Master Server-Side Web Security}  
+  B --> L{Abstract UC: Master Server-Side Web Security}
+  C --> L{Abstract UC: Master Server-Side Web Security}
+  D --> L{Abstract UC: Master Server-Side Web Security}
+  E --> L{Abstract UC: Master Server-Side Web Security}
+  F --> L{Abstract UC: Master Server-Side Web Security}
+  G --> L{Abstract UC: Master Server-Side Web Security}
+  H --> L{Abstract UC: Master Server-Side Web Security}
+  I --> L{Abstract UC: Master Server-Side Web Security}
+  J --> L{Abstract UC: Master Server-Side Web Security}
+  K --> L{Abstract UC: Master Server-Side Web Security}  
 ```
