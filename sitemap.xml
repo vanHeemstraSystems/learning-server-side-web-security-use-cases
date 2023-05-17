@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/server-side-request-forgery.html</loc>
-    <lastmod>2023-05-17T07:10:42.461Z</lastmod>
+    <lastmod>2023-05-17T07:11:16.532Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/xxe-injection.html</loc>
-    <lastmod>2023-05-17T07:10:43.089Z</lastmod>
+    <lastmod>2023-05-17T07:11:17.124Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/authentication.html</loc>
-    <lastmod>2023-05-17T07:10:43.489Z</lastmod>
+    <lastmod>2023-05-17T07:11:17.488Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/directory-traversal.html</loc>
-    <lastmod>2023-05-17T07:10:43.817Z</lastmod>
+    <lastmod>2023-05-17T07:11:17.992Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/sql-injection.html</loc>
-    <lastmod>2023-05-17T07:10:44.093Z</lastmod>
+    <lastmod>2023-05-17T07:11:18.348Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/business-logic-vulnerabilities.html</loc>
-    <lastmod>2023-05-17T07:10:44.361Z</lastmod>
+    <lastmod>2023-05-17T07:11:19.224Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/SUMMARY.html</loc>
-    <lastmod>2023-05-17T07:10:44.645Z</lastmod>
+    <lastmod>2023-05-17T07:11:19.488Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/command-injection.html</loc>
-    <lastmod>2023-05-17T07:10:44.913Z</lastmod>
+    <lastmod>2023-05-17T07:11:19.744Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/index.html</loc>
-    <lastmod>2023-05-17T07:10:45.221Z</lastmod>
+    <lastmod>2023-05-17T07:11:20.024Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/information-disclosure.html</loc>
-    <lastmod>2023-05-17T07:10:45.493Z</lastmod>
+    <lastmod>2023-05-17T07:11:20.280Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/access-control.html</loc>
-    <lastmod>2023-05-17T07:10:45.777Z</lastmod>
+    <lastmod>2023-05-17T07:11:20.536Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/about.html</loc>
-    <lastmod>2023-05-17T07:10:46.061Z</lastmod>
+    <lastmod>2023-05-17T07:11:20.784Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-server-side-web-security-use-cases/file-upload-vulnerabilities.html</loc>
-    <lastmod>2023-05-17T07:10:46.345Z</lastmod>
+    <lastmod>2023-05-17T07:11:21.040Z</lastmod>
   </url>
 </urlset>
