@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "server-side-request-forgery.html",
+    "href": "server-side-request-forgery.html",
+    "title": "Server-Side Request Forgery",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "authentication.html",
     "href": "authentication.html",
     "title": "Authentication",
