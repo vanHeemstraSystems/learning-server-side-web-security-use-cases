@@ -1,8 +1,15 @@
 [
   {
-    "objectID": "client-side-web-security.html",
-    "href": "client-side-web-security.html",
-    "title": "Client-Side Web Security",
+    "objectID": "authentication.html",
+    "href": "authentication.html",
+    "title": "Authentication",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "sql-injection.html",
+    "href": "sql-injection.html",
+    "title": "SQL Injection",
     "section": "",
     "text": "About this site"
   },
@@ -11,21 +18,14 @@
     "href": "SUMMARY.html",
     "title": "Table of contents",
     "section": "",
-    "text": "Table of contents\n\nLearning Web Security - Use Cases"
+    "text": "Table of contents\n\nLearning Server-Side Web Security - Use Cases"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning Web Security - Use-Cases",
+    "title": "Learning Server-Side Web Security - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Web Security\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Server-Side Web Security)\n  A[Learner] --&gt; C(UC: Master Client-Side Web Security)\n  A[Learner] --&gt; D(UC: Master YYY Web Security)\n  A[Learner] --&gt; E(UC: Master ZZZ Web Security)\n  B --&gt; F{Abstract UC: Master Web Security}\n  C --&gt; F{Abstract UC: Master Web Security}\n  D --&gt; F{Abstract UC: Master Web Security}\n  E --&gt; F{Abstract UC: Master Web Security}"
-  },
-  {
-    "objectID": "server-side-web-security.html",
-    "href": "server-side-web-security.html",
-    "title": "Server-Side Web Security",
-    "section": "",
-    "text": "About this site"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Server-Side Web Security\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master SQL Injection)\n  A[Learner] --&gt; C(UC: Master Authentication)\n  A[Learner] --&gt; D(UC: Master YYY)\n  A[Learner] --&gt; E(UC: Master ZZZ)\n  B --&gt; F{Abstract UC: Master Server-Side Web Security}\n  C --&gt; F{Abstract UC: Master Server-Side Web Security}\n  D --&gt; F{Abstract UC: Master Server-Side Web Security}\n  E --&gt; F{Abstract UC: Master Server-Side Web Security}"
   },
   {
     "objectID": "about.html",
