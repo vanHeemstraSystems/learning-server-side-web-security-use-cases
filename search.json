@@ -1,29 +1,15 @@
 [
   {
+    "objectID": "file-upload-vulnerabilities.html",
+    "href": "file-upload-vulnerabilities.html",
+    "title": "File Upload Vulnerabilities",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "server-side-request-forgery.html",
     "href": "server-side-request-forgery.html",
     "title": "Server-Side Request Forgery",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "xxe-injection.html",
-    "href": "xxe-injection.html",
-    "title": "XXE Injection",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "authentication.html",
-    "href": "authentication.html",
-    "title": "Authentication",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "directory-traversal.html",
-    "href": "directory-traversal.html",
-    "title": "Directory Traversal",
     "section": "",
     "text": "About this site"
   },
@@ -35,13 +21,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "business-logic-vulnerabilities.html",
-    "href": "business-logic-vulnerabilities.html",
-    "title": "Business Logic Vulnerabilities",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
     "title": "Table of contents",
@@ -49,30 +28,9 @@
     "text": "Table of contents\n\nLearning Server-Side Web Security - Use Cases"
   },
   {
-    "objectID": "command-injection.html",
-    "href": "command-injection.html",
-    "title": "Command Injection",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Server-Side Web Security - Use-Cases",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Server-Side Web Security\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master SQL Injection)\n  A[Learner] --&gt; C(UC: Master Authentication)\n  A[Learner] --&gt; D(UC: Master Directory Traversal)\n  A[Learner] --&gt; E(UC: Master Command Injection)\n  A[Learner] --&gt; F(UC: Master Business Logic Vulnerabilities)\n  A[Learner] --&gt; G(UC: Master Information Disclosure)\n  A[Learner] --&gt; H(UC: Master Access Control)\n  A[Learner] --&gt; I(UC: Master File Upload Vulnerabilities)\n  A[Learner] --&gt; J(UC: Master Server-Side Request Forgery)\n  A[Learner] --&gt; K(UC: Master XXE Injection)\n  B --&gt; L{Abstract UC: Master Server-Side Web Security}\n  C --&gt; L{Abstract UC: Master Server-Side Web Security}\n  D --&gt; L{Abstract UC: Master Server-Side Web Security}\n  E --&gt; L{Abstract UC: Master Server-Side Web Security}\n  F --&gt; L{Abstract UC: Master Server-Side Web Security}\n  G --&gt; L{Abstract UC: Master Server-Side Web Security}\n  H --&gt; L{Abstract UC: Master Server-Side Web Security}\n  I --&gt; L{Abstract UC: Master Server-Side Web Security}\n  J --&gt; L{Abstract UC: Master Server-Side Web Security}\n  K --&gt; L{Abstract UC: Master Server-Side Web Security}"
-  },
-  {
-    "objectID": "information-disclosure.html",
-    "href": "information-disclosure.html",
-    "title": "Information Disclosure",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "access-control.html",
-    "href": "access-control.html",
-    "title": "Access Control",
+    "objectID": "authentication.html",
+    "href": "authentication.html",
+    "title": "Authentication",
     "section": "",
     "text": "About this site"
   },
@@ -84,9 +42,51 @@
     "text": "About this site"
   },
   {
-    "objectID": "file-upload-vulnerabilities.html",
-    "href": "file-upload-vulnerabilities.html",
-    "title": "File Upload Vulnerabilities",
+    "objectID": "information-disclosure.html",
+    "href": "information-disclosure.html",
+    "title": "Information Disclosure",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "directory-traversal.html",
+    "href": "directory-traversal.html",
+    "title": "Directory Traversal",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "xxe-injection.html",
+    "href": "xxe-injection.html",
+    "title": "XXE Injection",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Server-Side Web Security - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Server-Side Web Security\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master SQL Injection)\n  A[Learner] --&gt; C(UC: Master Authentication)\n  A[Learner] --&gt; D(UC: Master Directory Traversal)\n  A[Learner] --&gt; E(UC: Master Command Injection)\n  A[Learner] --&gt; F(UC: Master Business Logic Vulnerabilities)\n  A[Learner] --&gt; G(UC: Master Information Disclosure)\n  A[Learner] --&gt; H(UC: Master Access Control)\n  A[Learner] --&gt; I(UC: Master File Upload Vulnerabilities)\n  A[Learner] --&gt; J(UC: Master Server-Side Request Forgery)\n  A[Learner] --&gt; K(UC: Master XXE Injection)\n  B --&gt; L{Abstract UC: Master Server-Side Web Security}\n  C --&gt; L{Abstract UC: Master Server-Side Web Security}\n  D --&gt; L{Abstract UC: Master Server-Side Web Security}\n  E --&gt; L{Abstract UC: Master Server-Side Web Security}\n  F --&gt; L{Abstract UC: Master Server-Side Web Security}\n  G --&gt; L{Abstract UC: Master Server-Side Web Security}\n  H --&gt; L{Abstract UC: Master Server-Side Web Security}\n  I --&gt; L{Abstract UC: Master Server-Side Web Security}\n  J --&gt; L{Abstract UC: Master Server-Side Web Security}\n  K --&gt; L{Abstract UC: Master Server-Side Web Security}"
+  },
+  {
+    "objectID": "business-logic-vulnerabilities.html",
+    "href": "business-logic-vulnerabilities.html",
+    "title": "Business Logic Vulnerabilities",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "access-control.html",
+    "href": "access-control.html",
+    "title": "Access Control",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "command-injection.html",
+    "href": "command-injection.html",
+    "title": "Command Injection",
     "section": "",
     "text": "About this site"
   }
